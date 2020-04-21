@@ -27,6 +27,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias
 # 📜 Licensa
 Esse projeto está sob a licença MIT.
 
-#  Desenvolvimento
+# 🖌 Desenvolvedores
 Desenvolvido por: [Luan Medeiros Silveira](https://www.linkedin.com/in/luan-medeiros-silveira-868020141/)
 Imagens por: Lucca Luiz e [Luan Medeiros Silveira](https://www.linkedin.com/in/luan-medeiros-silveira-868020141/)
