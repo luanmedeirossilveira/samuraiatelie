@@ -1,0 +1,12 @@
+{
+    "name": "samuraiatelie",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.html",
+    "scripts": {
+      "test": "...."
+    },
+    "keywords": [],
+    "author": "Luan Medeiros Silveira<luanmedeirossilveira@gmail.com>",
+    "license": "MIT"
+  }
